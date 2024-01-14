@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Articles</title>
+		<link rel="stylesheet" href="mystyle.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+		<div class="topnav">
+			<a class="active" href="Lab02.html">Home</a>
+			<a href = "#Castlevania">Castlevania Analysis</a>
+			<a href = "mask.html">Masked Character Analysis</a>
+			<a href = "suggest.html">Suggestions</a>
+		</div>
+		
+		<section>
+			<pages>
+				<h1>Castlevania: An Analysis of Dracula</h1>
+				<p> </p>
+					<p class="ctext"><i>Written in honor of the release of "Castlevania: Nocturne" on September 18, 2023</i></p>
+				<p> </p>
+					<p> Inspired by the popular video game by Konami, the Netflix anime adaptation is a dark medieval fantasy. 
+					It follows the last surviving member of the disgraced Belmont clan, Trevor Belmont, trying to save Eastern Europe 
+					from extinction at the hands of Vlad Dracula Tepes. Unlike many other tv shows that introduce the protagonist first, 
+					the show instead begins with an introduction of Dracula and a human doctor name Lisa. She approaches his intimidating castle and 
+					softly demands that he teach her about science and technology to better her medical practices. Dracula of course tries to scare her away 
+					but Lisa is resilient and critiques his terrible ettiquete as a host. The scene ends with Dracula smiling, it seems he may like this human.</p>
+				<p></p>
+				
+				<pic>
+					<img src="images/drac.jpg" height="200" width="200" class="leftp">
+				</pic>
+				<writing>
+					<p> The episode continues with a timeskip, this time we see an older Lisa tied at the stake in a church. She is on trial for being a witch 
+					and heretic (which of course is false, but the church had discovered scientific equipment at her home). As she burns, she yells to the sky calling 
+					out to forgive these people, the onlookers and priests do not know the grave error they have committed. As she dies, the flames erupt into 
+					the face of Dracula; he curses at the crowd, how dare they condemn an innocent woman? His wife? He warns the town of Targoviste, in a year's time
+					he will return with an army from hell and receive retribution. His care for humanity died with his wife, Lisa had taught him that not all humans 
+					were bad, but she was mistaken. His son, Adrien 'Alucard' Tepes confronts him later that day, he says he grieves with his father but he cannot allow him 
+					to exterminate an innocent town of people. Its not what his mother would have wanted. Instead, he suggests to find the person who convicted her and enact 
+					revenge on them instead. "There are no innocents! Not anymore! Any one of them could have stood up and said, 'no, we won't behaving like animals anymore." 
+					Dracula blinded by rage and grief attacks his son, forcing Alucard to hide away for a year to recover from his wounds.</p>
+					<p class="spacing2"> </p>
+				</writing>
+					<p>The first two seasons focus on the protagonist's (Trevor, Alucard, and Sypha) adventure to try and stop Dracula and his horde of demonic creatures. 
+					Trevor the primary protagonist is a reluctant hero. Coming from a long line of monster hunter's he is the only person equipped with the knowledge and tools 
+					to vanquish Dracula. But he shares a similar disdain to humanity as the villain, his family was exiled and murdered by the Church for being 'heretics.' 
+					Going back to Dracula, as the series progresses he slowly loses the fiery passion for killing humanity that he originally had. Once the protagonists reach 
+					his castle in season 2, he is a husk of his former self. Dracula still looks like the intimidating 9' tall creature of the night, but he just misses his wife. 
+					His extermination of the human race is no longer something he is passionate about, it just seems like an obligation to complete. As Alucard puts it this massacre 
+					has been nothing but history's longest suicide note. I won't say much more to prevent myself from spoiling this show for you, but I highly recommend it for the rich 
+					story and beautiful animation.</p>
+				<p> </p>
+				<p class="ctext"> <i>I recommend this video which explains the complexities of Dracula's character much better than I could do</i></p>
+				
+			</pages>
+			<iframe class="center" width="600" height="340" src= "https://www.youtube.com/embed/5bpVs97dFiY">
+			</iframe>
+			<p> </p>
+		</section>
+		
+		<footer>
+		<p>Copyright <span> &#169 </span> 2023</p>
+		<p> <s> but not actually </s> </p>
+	</footer>
+	</body>
+</html>

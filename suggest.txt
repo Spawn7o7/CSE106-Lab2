@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Articles</title>
+		<link rel="stylesheet" href="mystyle.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+		<div class="topnav">
+			<a class="active" href="Lab02.html">Home</a>
+			<a href = "castlevania.html">Castlevania Analysis</a>
+			<a href = "mask.html">Masked Character Analysis</a>
+			<a href = "#Suggestions">Suggestions</a>	
+		</div>
+	
+		<section>
+			<pages>
+				<h1>Suggestions Box</h1>
+				<p> </p>
+				<p>Hello there!</p>
+				<p> </p>
+				<p>At 'The Rabbit Hole', we're all about diving deep into the world of fictional characters, 
+				their designs, their character arcs, and the hidden symbolism that makes storytelling so magical. 
+				But we're not the only detectives here! We value your input and ideas. Got a character you'd love us to dissect? Wondering about symbolism 
+				in your favorite story? Or maybe you have a suggestion to make our blog even better? Feel free to suggest 
+				or comment anything!</p>
+				<p> </p>
+				<img src = "images/me2.jpg" height="275" class="lefts">
+				<p> </p>
+				<p> Please don't actually click send</p>
+				<p> </p>
+				
+				<form action="/form/submit" method="POST" class="lefts">
+					<textarea class="comment">Type your comment here.</textarea>
+					<br>
+						<input type="submit" name="submit" value="Send">
+				</form>	
+			</pages>
+		</section>
+
+		<footer>
+			<p>Copyright <span> &#169 </span> 2023</p>
+			<p> <s> but not actually </s> </p>
+		</footer>	
+	</body>
+</html>

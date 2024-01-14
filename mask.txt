@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Articles</title>
+		<link rel="stylesheet" href="mystyle.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+		<div class="topnav">
+			<a class="active" href="Lab02.html">Home</a>
+			<a href = "castlevania.html">Castlevania Analysis</a>
+			<a href = "#Mask">Masked Character Analysis</a>
+			<a href = "suggest.html">Suggestions</a>	
+		</div>
+		
+		<p> </p>
+		<h1> A Deep Dive into Masked Characters</h1>
+		
+		<p>In the vast realm of fiction, masks are not just mere accessories; they are 
+		powerful symbols of secrecy, identity, and psychological depth. Whether worn by heroes, 
+		enigmatic antiheroes, or mysterious villains, these masks hold a multitude of meanings. 
+		In this article, we peel back the layers of masked fictional characters, delving into the 
+		intricate reasons behind their choice to conceal their faces. Do they wear masks to hide their true identity? 
+		As a coping mechanism for their past? To convey deeper symbolic messages? Or simply because it looks cool? </p>
+		
+		<section>
+			<pages>
+				<table>
+					<tr>
+						<th>Masked Character</th>
+						<th>Media Name</th>
+						<th>Aesthetic, Coping Mechanism, or Symbolism?</th>
+					</tr>
+					<tr>
+						<td>Wrench</td>
+						<td>Watch Dogs 2</td>
+						<td>Coping Mechanism (anxiety)</td>
+					</tr>
+					<tr>
+						<td>Ghostface</td>
+						<td>Scream</td>
+						<td>Aesthetic</td>
+					</tr>
+					<tr>
+						<td>Winter Soldier</td>
+						<td>Marvel</td>
+						<td>Symbolism</td>
+					</tr>
+					<tr>
+						<td>The Mandalorian</td>
+						<td>Star Wars</td>
+						<td>Symbolism (bound by creed)</td>
+					</tr>
+					<tr>
+						<td>Frank</td>
+						<td>Donnie Darko</td>
+						<td>Aesthetic (tortured artist)</td>
+					</tr>
+					<tr>
+						<td>Handsome Jack </td>
+						<td>Borderlands 2</td>
+						<td>Aesthetic (prosthetic face)</td>
+					</tr>
+					<tr>
+						<td>Octane</td>
+						<td>Apex Legends</td>
+						<td>Aesthetic (daredevil persona)</td>
+					</tr>
+					<tr>
+						<td>Bludhound</td>
+						<td>Apex Legends</td>
+						<td>Coping Mechanism (needs it to breathe)</td>
+					</tr>
+				</table>
+			</pages>
+			
+			<pic>
+				<img src = "images/wrench.jpg" height="128" width="128">
+				<p> </p>
+				<img src = "images/gf.jpg" height="128" width="128">
+				<p> </p>
+				<img src = "images/ws.jpg" height="128" width="128">
+			</pic>
+			
+			<writing>
+				<p><i>Wrench:</i> He is a hacktivist from the 2018 video game <i>Watch dogs 2</i> created by Ubisoft. 
+				He has a wild and humorous personality. But is prone to some violent outbursts. According to an in-game 
+				audio log, the FBI developed a psychological profile of him and determined him to have a troubled, possibly 
+				traumatic childhood. As such, he is socially awkward around women, has trouble conveying his emotions, and 
+				wears his trademark mask as a "billboard" to show how he feels.</p>
+				<p class="spacing"> </p>
+				<p><i>Ghostface:</i> This name is a famous moniker for the killers in the Scream horror movie franchise. 
+				There is nothing symbolic in wearing this particular mask, it simply serves the purpose of hiding the identity 
+				of the person wearing it.</p>
+				<p class="spacing"> </p>
+				<p><i>Winter Soldier:</i> The Winter Soldier is a prominent character in Marvel's comics and movies. The character 
+				was a villain in his first appearance. His character was brainwashed and used as a super-soldier weapon for an evil
+				organization. In his first scene, he has no visible expressions and he doesn't speak. Because of this, he is effectively 
+				dehumanized and characterized through his actions, and he moves to kill. He's seen as a weapon, not a person. The mask acts 
+				almost like a muzzle.</p>
+			</writing>
+	
+		</section>
+		
+		
+		
+		<footer>
+		<p>Copyright <span> &#169 </span> 2023</p>
+		<p> <s> but not actually </s> </p>
+	</footer>
+	</body>
+</html>
